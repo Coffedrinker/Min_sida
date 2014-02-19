@@ -1,0 +1,72 @@
+/*
+Author: Steve/CaffeineDash/C8H10N4O2Addict
+contact: jawes70@gmail.com
+Description: This page is a basic CSS.
+*/
+body {
+	margin: 0;
+	background-color: #ff8900;
+}
+
+body > header {
+	background-color: #a65900;
+	text-align: center;
+}
+
+
+footer {
+	margin: auto;
+	text-align: center;
+}
+
+	background-color: #ff8900; 
+	padding: 0;
+	margin: 0;
+}
+ header  {
+ 	background-color: #a65900;
+ 	padding: 0;
+ }
+ header > div {
+ 	width: 100%;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	padding: 0;
+ }
+ 
+ header > div > #navBar {
+	
+	background-color: #ffa640;
+	display: inline;
+	margin: 0;
+
+} 
+
+header > div > div > a {
+	border: solid 2px #ffa640;
+	margin-bottom:5px;
+	
+}
+
+header > div > div > a:hover {
+	border: groove 2px #fff;
+}
+
+header > div > a > img {
+ 	width: auto;
+ 	height: 100%;
+ }
+ #divider {
+ height: 15px;
+ 	background-color: #bf7d30;
+ }
+#main_content {
+	padding-left:5px;
+	background-color: #ffbe73;
+	border: 1px solid black;
+	border-style: outset;
+	margin-left: 20%;
+	margin-right: 30%;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
